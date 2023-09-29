@@ -1,3 +1,5 @@
+#### See PDF for more information about dl tasks.
+
 ## 1. Model Architecture
 •	Built a ResNet model by adding skip connections as more as possible; used classification train data to train the model
 ![](pics/arch.png)
@@ -23,4 +25,4 @@ Train Result:
 
 •	Calculated cosine similarity through verification data face embedding pairs and used AUC score to evaluate the model performance for face verification.
 
-#### See PDF for more information about dl tasks.
+
